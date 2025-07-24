@@ -1,3 +1,9 @@
+
+header li { text-align: center;
+padding: 10px;
+;
+}
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -12,15 +18,10 @@ header {
   text-align: center;
 }
 
-
-
-
 header ul li a {
   color: white;
   text-decoration: none;
 }
-
-
 
 footer {
   text-align: center;
